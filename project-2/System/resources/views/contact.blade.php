@@ -36,7 +36,7 @@
       <div class="header_section">
          <div class="container">
             <nav class="navbar navbar-dark bg-dark">
-               <a class="logo" href="{{ url('public') }}/assets/index.html"><img src="images/logo.png"></a>
+               <a class="logo" href="index.html"><img src="{{ url('public') }}/assets/images/logo.png"></a>
                <div class="search_section">
                   <ul>
                      <li><a href="{{ url('public') }}">Log In</a></li>

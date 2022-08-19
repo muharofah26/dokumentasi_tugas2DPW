@@ -45,3 +45,7 @@ Route::get('welcome', function () {
 Route::get('login', function () {
     return view('login');
 });
+
+Route::get('shopping-bag', function () {
+    return view('shopping-bag');
+});
