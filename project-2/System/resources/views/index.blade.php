@@ -77,7 +77,7 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="taital_main">
-                                 <h4 class="banner_taital"><span class="font_size_90">50%</span> Discount Online Shop</h4>
+                                 <h4 class="banner_taital"><span class="font_size_90">50%</span> Discount Magic Shop</h4>
                                  <p class="banner_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration </p>
                                  <div class="book_bt"><a href="#">Shop Now</a></div>
                               </div>
@@ -94,7 +94,7 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="taital_main">
-                                 <h4 class="banner_taital"><span class="font_size_90">50%</span> Discount Online Shop</h4>
+                                 <h4 class="banner_taital"><span class="font_size_90">50%</span> Discount Magic Shop</h4>
                                  <p class="banner_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration </p>
                                  <div class="book_bt"><a href="#">Shop Now</a></div>
                               </div>
@@ -111,7 +111,7 @@
                         <div class="row">
                            <div class="col-md-6">
                               <div class="taital_main">
-                                 <h4 class="banner_taital"><span class="font_size_90">50%</span> Discount Online Shop</h4>
+                                 <h4 class="banner_taital"><span class="font_size_90">50%</span> Discount Magic Shop</h4>
                                  <p class="banner_text">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration </p>
                                  <div class="book_bt"><a href="#">Shop Now</a></div>
                               </div>

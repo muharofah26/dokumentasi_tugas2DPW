@@ -27,7 +27,7 @@
 		      		<span class="fa fa-user-o"></span>
 		      	</div>
 		      	<h3 class="text-center mb-4">Have an account?</h3>
-						<form action="{{url('login')}}" class="login-form">
+						<form action="{{url('beranda')}}" class="login-form">
 		      		<div class="form-group">
 		      			<input type="text" class="form-control rounded-left" placeholder="Username" required>
 		      		</div>

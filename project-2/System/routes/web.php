@@ -49,3 +49,26 @@ Route::get('login', function () {
 Route::get('shopping-bag', function () {
     return view('shopping-bag');
 });
+Route::get('tamplate', function () {
+    return view('tamplate.base');
+});
+
+Route::get('/base', function () {
+    return view('admin.base');
+});
+
+Route::get('/beranda', function () {
+    return view('admin.beranda');
+});
+
+Route::get('/produk', function () {
+    return view('admin.produk');
+});
+
+Route::get('/kategori', function () {
+    return view('admin.kategori');
+});
+
+Route::get('/login_admin', function () {
+    return view('admin.section.login_admin');
+});
